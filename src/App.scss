@@ -1,0 +1,18 @@
+@import "components/Sidebar/style.scss";
+@import "components/Content/Users/style.scss";
+@import "components/Content/Groups/style.scss";
+@import "components/Content/Roles/style.scss";
+
+.main-container {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+}
+
+.sidebar {
+ // width: 100%;
+}
+
+.content {
+  //width: 100%;
+}
